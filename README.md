@@ -1,5 +1,5 @@
 <h1 align="center" style="border-radius:100px">
-  Calculadora - React
+  Basic CRUD React
 </h1>
 
 <p align="center">
